@@ -19,7 +19,7 @@ This repository was created as part of a hands-on assignment to practice basic G
 
 ## 🔗 Live Link (GitHub Pages)
 Click here to view on GitHub Pages:  
-👉 [https://paulinesoledad.github.io/git-practice](https://your-username.github.io/git-practice)
+👉 [https://paulinesoledad.github.io/git-practice](https://paulinesoledad.github.io/git-practice)
 
 ## 📝 Purpose
 This exercise demonstrates basic version control workflows, useful for real-world collaboration and project tracking.
